@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const Himanshu = () => {
-    return (
-        <div>
-            Hello from Himanshu
-        </div>
-    )
-}
+  return <div>Hello from Himanshu Hello from Ankit</div>;
+};
 
-export default Himanshu
+export default Himanshu;
